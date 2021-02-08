@@ -1,0 +1,76 @@
+
+
+@font-face {
+    font-family: 'Onslaughter';
+    src: url('desktop/webdesign/fontsweb/Onslaughter.ttf') format('truetype');
+    
+}
+h1{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color:yellow;
+align:center;
+background-clip: border-box;
+
+background-repeat: repeat;
+
+background-color: black;
+background-position: center;
+}
+
+
+
+
+
+
+
+    
+
+
+#font1 {
+    text-align: center;
+    font-family:'Onslaughter';
+    text-decoration-color: yellow;
+    
+}
+
+header{ 
+    
+    font-family: 'onslaughter'; color: yellow;
+}
+
+body {
+    background-color:black;
+    height: 100vh;
+    
+    grid-column: 2 span 1;
+    grid-row: 2 span 1;
+}
+ul{
+    font-family: 'onslaughter';
+    text-decoration-color: yellow;
+}
+#PORTFOLIO{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    color:yellow;
+}
+
+#STORE{
+    color:yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#BIO{
+    color:yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#SAMPLE TEXT{
+    color:yellow;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ 
+ #footer{
+     color:yellow
+ }

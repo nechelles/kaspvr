@@ -1,0 +1,172 @@
+
+  @font-face{
+    font-family:"falange-punk-regular";
+    src:url("https://fontsme.com/wp-data/f/947/16947/file/Falange Punk.otf") format("woff"),
+    url("https://fontsme.com/wp-data/f/947/16947/file/Falange Punk.otf") format("opentype"),
+    url("https://fontsme.com/wp-data/f/947/16947/file/Falange Punk.otf") format("truetype");
+}
+span.font0{font-family:"falange-punk-regular";font-size:45px;text-transform:none;}
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+
+}
+
+ .topnav-centered{ 
+background-color:black;
+color:black;
+width: 100%;
+height: 220px;
+display: block;
+}
+
+a:visited {
+    text-decoration: none;
+    color:black;
+
+
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(116, 111, 45);
+    
+
+}
+a:focus-visible{
+text-decoration: none;
+}
+
+a:link{
+text-decoration: none;
+color:black;
+
+}
+
+
+
+
+.topnav a.active{
+background-color: black;
+color: black;
+}
+
+.topnav-centered a{
+float: none;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%)
+}
+.hover{
+text-decoration: none;
+
+}
+
+
+.topnav-left-topnav-right{
+font-family: "falange-punk-regular";
+color:yellow;
+font-size: 50px;
+text-decoration: none; 
+width:100% ;
+overflow: auto;
+background-color: yellow;
+  
+}
+
+.topnav-left-topnav-right a{
+float: left;
+text-decoration: none;
+width: 25%;
+font-family: "falange-punk-regular";
+text-align:center;
+}
+
+
+
+
+
+.topnav-centered a{
+position:relative;
+top: 0;
+left: 0;
+transform: none;
+}
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+background-repeat: repeat-y;
+
+
+}
+
+.navbar {
+background-color: yellow;
+overflow: hidden;
+position: fixed;
+bottom: 0;
+width: 100%;
+font-family: "falange-punk-regular";
+
+
+}
+.navbar a {
+float: left;
+display: block;
+color:black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+.navbar a:hover {
+text-decoration: none;
+color: rgb(172, 172, 6);
+}
+.navbar a.active {
+background-color:black;
+color:yellow;
+}
+
+
+body {
+background-image: url("https://media0.giphy.com/media/DpBCUvKRw5USlsWRvD/giphy.gif?cid=4d1e4f298da72d16dbd676d79573f3d6d9e605c41a0b7d0f&rid=giphy.gif");
+background-position: center;
+background-repeat: repeat;
+
+
+}
+
+.center-2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;     height: 100vh;
+  }
+  
+  #cell{
+    grid-column: 3 / span 3;
+    grid-row: 3 / span 1;
+ 
+    text-align: center;
+  }
+  
+  #cell{
+    grid-column: 2 / span 1;
+    grid-row: 2 / span 1;
+   
+  }
+
+
+    
+}
